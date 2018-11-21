@@ -1,6 +1,1 @@
-﻿学习git
-
-hello world!
-DSDS
-7777777777777
-88888
+﻿[git 学习篇] git checkout 撤销修改 https://www.cnblogs.com/liuzhipenglove/p/7068622.html
